@@ -1,12 +1,5 @@
 /*
-Grazieli Candido 
-RM559529
-Márcio Marques de Moraes
-RM560203
-Pedro Henrique Stolfi 
-RM560350
-Richard Rayan Araújo Santos 
-RM559344
+Script SQL-DDL para criaÃ§Ã£o do Banco de Dados relacional via Oracle Data Modeler do Melhores Compres (e-commerce)
 */
 
 DROP TABLE mc_cliente CASCADE CONSTRAINTS;
