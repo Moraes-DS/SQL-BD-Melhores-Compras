@@ -1,5 +1,6 @@
 /*
-Script SQL-DDL para criação do Banco de Dados relacional via Oracle Data Modeler do Melhores Compres (e-commerce)
+Script SQL-DDL para criação do Banco de Dados relacional 
+via Oracle Data Modeler do Melhores Compres (e-commerce)
 */
 
 DROP TABLE mc_cliente CASCADE CONSTRAINTS;
