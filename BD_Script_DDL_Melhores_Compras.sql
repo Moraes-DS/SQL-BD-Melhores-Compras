@@ -79,7 +79,6 @@ CREATE TABLE mc_funcionario (
     dt_cadastramento  DATE,
     dt_desligamento   DATE,
 );
-ALTER TABLE mc_funcionario ADD CONSTRAINT mc_funcionario_un UNIQUE ( nr_CPF );
 
 CREATE TABLE mc_end_func (
     cd_logradouro_func NUMBER PRIMARY KEY,
