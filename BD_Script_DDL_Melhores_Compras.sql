@@ -78,7 +78,6 @@ CREATE TABLE mc_funcionario (
     st_func           CHAR(1),
     dt_cadastramento  DATE,
     dt_desligamento   DATE,
-    nr_CPF 			  VARCHAR2(14) NOT NULL
 );
 ALTER TABLE mc_funcionario ADD CONSTRAINT mc_funcionario_un UNIQUE ( nr_CPF );
 
