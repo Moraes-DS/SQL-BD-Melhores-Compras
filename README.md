@@ -1,4 +1,4 @@
-Comandos SQL-DDL para criação de um banco de dados relacional (via Oracle Data Modeler) de um e-commerce fictício chamado Melhores Compras.
+Comandos SQL-DDL/DML para criação de um banco de dados relacional (via Oracle Data Modeler) de um e-commerce fictício chamado Melhores Compras. Além disso, apresenta os Modelos Lógico e Físico do projeto criados no Oracle Data Modeler.
 
 Este projeto faz parte de um trabalho em conjunto dos seguintes Profissionais (em ordem alfabética):
 
